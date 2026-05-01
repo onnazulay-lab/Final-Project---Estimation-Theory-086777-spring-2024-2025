@@ -1,0 +1,17 @@
+metric,value
+blue_block_anticipation_pct,0.0
+blue_block_events,1
+blue_block_anticipated,0
+red_block_anticipation_pct,0.0
+red_block_events,1
+red_block_anticipated,0
+blue_predictive_pearson_lambda_future_clear,0.5162551564645481
+blue_predictive_spearman_lambda_future_clear,0.5859512556760264
+blue_predictive_pearson_active_future_clear,-0.4139856844276123
+blue_predictive_n_points,109
+red_predictive_pearson_lambda_future_clear,0.5844067645129365
+red_predictive_spearman_lambda_future_clear,0.5383620105676737
+red_predictive_pearson_active_future_clear,-0.42884005135899944
+red_predictive_n_points,121
+blue_peak_abs_ar,0.16509379890359935
+red_peak_abs_ar,0.15653340248073705
