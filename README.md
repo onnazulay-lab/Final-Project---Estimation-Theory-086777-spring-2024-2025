@@ -1,7 +1,7 @@
 # Belief-Space Autonomous Racing Project
 
 ## Overview
-This repository contains a full two-agent autonomous racing simulation developed in **Julia**, based on **belief-space planning**, **EKF uncertainty propagation**, and **adaptive covariance projection / constraint handling**.
+This repository contains a full two-agent autonomous racing simulation developed in **Julia**.
 
 The project studies how two autonomous vehicles interact competitively while tracking uncertain beliefs about themselves, each other, and the environment.
 
