@@ -55,7 +55,7 @@ Install:
 
 After installing Julia and the VS Code Julia extension:
 
-### Open Julia REPL:
+### Open VS Code terminal:
 
 Press:
 
@@ -63,3 +63,6 @@ Press:
 Alt + j
 then
 Alt + o
+```
+
+### That will create a Julia REPL.
